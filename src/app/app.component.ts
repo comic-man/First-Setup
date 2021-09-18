@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+<<<<<<< HEAD
  
+=======
+  title = 'First-Setup';
+>>>>>>> parent of 9eda414 (Update app.component.ts)
 }
